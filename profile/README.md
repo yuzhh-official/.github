@@ -9,6 +9,13 @@ Building AI agents for real work.
 
 [官网](https://yuzhh.com) · [宇智能](https://yuzhh.com/products/yuzai) · [联系我们](https://yuzhh.com/contact) · [English](https://yuzhh.com/en)
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.jpg">
+  <img src="assets/hero-light.jpg" width="100%" alt="宇智能：从内部效率到外部增长">
+</picture>
+
 </div>
 
 ---
@@ -55,6 +62,33 @@ We build industry AI agents that turn large language models into tools for speci
 </tr>
 </table>
 
+## 产品界面
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/desktop-dark.jpg">
+  <img src="assets/desktop-light.jpg" width="100%" alt="宇智能桌面端概念界面：文档编辑与 AI 助手">
+</picture>
+
+<sub>宇智能桌面端 · 概念界面</sub>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/geo-dark.jpg">
+  <img src="assets/geo-light.jpg" width="100%" alt="Yuz GEO 概念界面：品牌在 AI 搜索中的呈现，图表为演示数据">
+</picture>
+
+<sub>Yuz GEO · 概念界面 · 演示数据</sub>
+
+</td>
+</tr>
+</table>
+
 ## 了解更多
 
 | | |
@@ -62,6 +96,11 @@ We build industry AI agents that turn large language models into tools for speci
 | 公司与产品 | [yuzhh.com](https://yuzhh.com) · [关于我们](https://yuzhh.com/about) · [公司动态](https://yuzhh.com/news) |
 | 宇智能 | [产品介绍](https://yuzhh.com/products/yuzai) · [Yuz GEO 预告](https://yuzhh.com/products/yuzgeo) |
 | 企业合作 | 部署、系统接入与产品演示，请通过 [联系页](https://yuzhh.com/contact) 与我们沟通 |
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.jpg">
+  <img src="assets/about-light.jpg" width="100%" alt="宇智汇和">
+</picture>
 
 <div align="center">
 <sub>宇智汇和（东莞）科技有限公司 · Yuzhihuihe (Dongguan) Technology Co., Ltd.</sub>
