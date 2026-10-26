@@ -20,7 +20,7 @@
 ---
 
 We build industry AI agents that turn large language models into tools for specific jobs.
-**Yuz AI** is our product brand, with desktop agents (Windows / macOS / Linux) for higher education, e-commerce content, and brand visibility in AI search.
+**Yuz AI** is our product brand, with desktop agents (Windows / macOS / Linux, all in closed beta) for higher education, e-commerce content, and brand visibility in AI search.
 
 ## Yuz AI products
 

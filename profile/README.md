@@ -21,9 +21,9 @@ Building AI agents for real work.
 ---
 
 我们是一家开发 AI 智能体的公司，把大模型能力做成能完成具体工作的行业 Agent。
-**宇智能（Yuz AI）** 是我们的产品品牌：面向高校教学、电商内容和品牌 AI 搜索可见度，提供三端桌面 Agent（Windows / macOS / Linux）。
+**宇智能（Yuz AI）** 是我们的产品品牌：面向高校教学、电商内容和品牌 AI 搜索可见度，提供三端桌面 Agent（Windows / macOS / Linux，均在内测）。
 
-We build industry AI agents that turn large language models into tools for specific jobs. **Yuz AI** is our product brand, with desktop agents for higher education, e-commerce content, and brand visibility in AI search.
+We build industry AI agents that turn large language models into tools for specific jobs. **Yuz AI** is our product brand, with desktop agents (Windows / macOS / Linux, all in closed beta) for higher education, e-commerce content, and brand visibility in AI search.
 
 ## 宇智能产品 · Yuz AI
 
