@@ -7,7 +7,7 @@
 **让 AI 进入工作。**<br>
 Building AI agents for real work.
 
-[官网](https://yuzhh.com) · [宇智能](https://yuzhh.com/products/yuzai) · [联系我们](https://yuzhh.com/contact) · [English](https://yuzhh.com/en)
+[官网](https://yuzhh.com) · [宇智能](https://yuzhh.com/products/yuzai) · [联系我们](https://yuzhh.com/contact) · [English](https://github.com/yuzhh-official/.github/blob/main/profile/README.en.md)
 
 <br>
 
